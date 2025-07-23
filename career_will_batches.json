@@ -1,0 +1,16 @@
+{
+  "batches": [
+    {
+      "course_name": "Python Programming",
+      "batch_id": "PYT-2025-01",
+      "start_date": "2025-08-01",
+      "details": "Beginner-friendly course, 12 weeks, online"
+    },
+    {
+      "course_name": "Data Science Bootcamp",
+      "batch_id": "DS-2025-02",
+      "start_date": "2025-09-15",
+      "details": "Advanced course, 16 weeks, hybrid"
+    }
+  ]
+}
